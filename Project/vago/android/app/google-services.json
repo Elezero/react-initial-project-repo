@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1013847332687",
+    "project_id": "vago-c77fa",
+    "storage_bucket": "vago-c77fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013847332687:android:4b8843e42c78421d01d73a",
+        "android_client_info": {
+          "package_name": "com.elesteam.vago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013847332687-mll9cokeif0dtc5oatei83rk82bvlupr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elesteam.vago",
+            "certificate_hash": "79f6c74a440d8c64e1c281cdd635a98740b9e8e9"
+          }
+        },
+        {
+          "client_id": "1013847332687-7ufus4vms5rpvv8jt3t4at8mhm0smcn6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvud3Qo2UYInwDBA3lT_XpguSG8qSdHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013847332687-7ufus4vms5rpvv8jt3t4at8mhm0smcn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1013847332687-0b1k7c67k81ciriei40fj9nrkkfsknqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elesteam.vago"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
